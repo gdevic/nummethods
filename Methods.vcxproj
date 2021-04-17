@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{ffb04d2c-d23b-465d-82e0-f203827901d8}</ProjectGuid>
-    <RootNamespace>nummethods</RootNamespace>
+    <RootNamespace>Methods</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="log.cpp" />
-    <ClCompile Include="nummethods.cpp" />
+    <ClCompile Include="Methods.cpp" />
     <ClCompile Include="sqrt.cpp" />
     <ClCompile Include="trig.cpp" />
   </ItemGroup>
